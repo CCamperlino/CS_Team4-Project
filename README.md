@@ -1,8 +1,8 @@
 # CS_Team4-Project
 By: 
-Nathan Johnson
-Szymon Kowal
-Chibuikem Chimezie
+Nathan Johnson,
+Szymon Kowal,
+Chibuikem Chimezie,
 Christain Camperlino
 
 Instructions/ guide:
